@@ -2,7 +2,7 @@
 
 A cli ATM  designed witht the help of chalk and developed using TypeScript.
 
-# Run the calculator on your  VSCode 
+# Run the ATM on your  VSCode 
 
 ```
 npx cli_atm_piaic_shaheer
